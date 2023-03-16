@@ -4,4 +4,4 @@ Due esempi di implementazione del *design pattern* **Singleton**. La classe `Log
 
 Notare il metodo `static` `getInstance()`, il campo `static`, e il costruttore `private`.
 
-La classe `Pagamenti` implementa un **Multiton**.
+La classe `Pagamenti` implementa un **Multiton**, il suo client è la classe `ClientPagam`.
